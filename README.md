@@ -94,3 +94,26 @@ O esquema Estrela consiste em uma tabela de fatos central, que armazena dados tr
 <https://metabase-treinamentos.dadosfera.ai/dashboard/127-analise-corpus-pedro>
 
 **_Bonus 3:_** Traga ou realize alguma nova análise com dados próximos ao domínio utilizado neste case, mas que utilize ferramentas externas de BI como PowerBI ou Tableau. Crie um Readme explicando como foi criado esse projeto e suba no mesmo repositório do case. [Incorpore](https://www.google.com/url?q=https://docs.dadosfera.ai/docs/carregar-ativos-manualmente&sa=D&source=editors&ust=1716474247010282&usg=AOvVaw2v2hMI7iO8ZjF_abZYBBZF) esse dashboard externo como um Ativo na Dadosfera.
+
+# **Item 7 -** Item  8 - Sobre Pipelines
+
+# Simulação da Copa América em Python
+
+Este é um projeto simples em Python que simula os resultados da Copa América utilizando aprendizado de máquina e análise de dados.
+
+## Descrição
+
+O objetivo deste projeto é prever os resultados dos jogos da Copa América com base em dados históricos das equipes participantes.
+
+O projeto utiliza as seguintes etapas:
+
+1. Coleta de dados históricos das equipes participantes.
+2. Pré-processamento dos dados para alimentar o modelo de aprendizado de máquina.
+3. Treinamento do modelo de aprendizado de máquina.
+4. Interface para o usuário selecionar as equipes participantes e prever os resultados dos jogos.
+
+## Bibliotecas Utilizadas
+
+- Pandas: Para manipulação de dados.
+- Scikit-learn: Para treinar o modelo de aprendizado de máquina.
+
