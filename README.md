@@ -95,7 +95,7 @@ O esquema Estrela consiste em uma tabela de fatos central, que armazena dados tr
 
 **_Bonus 3:_** Traga ou realize alguma nova análise com dados próximos ao domínio utilizado neste case, mas que utilize ferramentas externas de BI como PowerBI ou Tableau. Crie um Readme explicando como foi criado esse projeto e suba no mesmo repositório do case. [Incorpore](https://www.google.com/url?q=https://docs.dadosfera.ai/docs/carregar-ativos-manualmente&sa=D&source=editors&ust=1716474247010282&usg=AOvVaw2v2hMI7iO8ZjF_abZYBBZF) esse dashboard externo como um Ativo na Dadosfera.
 
-# **Item 7 -** Item  8 - Sobre Pipelines
+** Item  8 - Sobre Pipelines
 
 **Simulação da Copa América em Python**
 
