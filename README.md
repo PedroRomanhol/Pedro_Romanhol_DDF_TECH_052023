@@ -97,11 +97,11 @@ O esquema Estrela consiste em uma tabela de fatos central, que armazena dados tr
 
 # **Item 7 -** Item  8 - Sobre Pipelines
 
-# Simulação da Copa América em Python
+**Simulação da Copa América em Python**
 
 Este é um projeto simples em Python que simula os resultados da Copa América utilizando aprendizado de máquina e análise de dados.
 
-## Descrição
+**Descrição**
 
 O objetivo deste projeto é prever os resultados dos jogos da Copa América com base em dados históricos das equipes participantes.
 
@@ -112,7 +112,7 @@ O projeto utiliza as seguintes etapas:
 3. Treinamento do modelo de aprendizado de máquina.
 4. Interface para o usuário selecionar as equipes participantes e prever os resultados dos jogos.
 
-## Bibliotecas Utilizadas
+**Bibliotecas Utilizadas**
 
 - Pandas: Para manipulação de dados.
 - Scikit-learn: Para treinar o modelo de aprendizado de máquina.
