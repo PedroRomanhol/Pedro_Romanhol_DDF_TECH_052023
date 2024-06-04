@@ -32,7 +32,7 @@ Colunas (Variáveis):
 
 # **Item 3 -** Sobre a Dadosfera - Explorar
 
-As imgagens se encontram nos prints e no arquivo pdf
+As imagens se encontram nos prints e no arquivo pdf
 
 # **Item 4 -** Sobre Data Quality
 
