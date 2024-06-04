@@ -119,3 +119,20 @@ O projeto utiliza as seguintes etapas:
 - Pandas: Para manipulação de dados.
 - Scikit-learn: Para treinar o modelo de aprendizado de máquina.
 
+# Item  9 - Sobre Data Apps
+
+https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=7e8cdf4d-0163-418b-850f-a8d12fb03b7b&pipeline_uuid=ba74a8b7-7e00-4aa6-946e-74aa8a226e0d
+
+Utilizando a simulação da Copa América do item 8, criei um data app que simula a Copa América. Ele mostra os grupos com as seleções que estão participando e, ao clicar no botão de simular, são gerados os resultados da fase de grupos. Uma nova tabela com a pontuação e posição de cada seleção é apresentada e, com as seleções classificadas, temos a fase de mata-mata que é simulada fase a fase até a definição do campeão.
+
+**O data app exibe as seguintes informações:**
+
+1. Grupos da Copa América com as seleções participantes.
+2. Resultados da fase de grupos.
+3. Tabela com a pontuação e posição de cada seleção.
+4. Fase de mata-mata simulada.
+5. Campeão da Copa América.
+   
+**Observações:**
+
+A simulação é baseada em dados históricos e utiliza aprendizado de máquina para prever os resultados dos jogos.
