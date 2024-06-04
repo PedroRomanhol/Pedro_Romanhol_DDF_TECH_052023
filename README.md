@@ -32,6 +32,8 @@ Colunas (Variáveis):
 
 # **Item 3 -** Sobre a Dadosfera - Explorar
 
+As imgagens se encontram nos prints e no arquivo pdf
+
 # **Item 4 -** Sobre Data Quality
 
 | Coluna (Variável) | Ordem correta | Valores nulos | Tipo de dado correto? |
